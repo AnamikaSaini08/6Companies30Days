@@ -22,3 +22,4 @@ class Solution {
         memset(dp , -1 , sizeof(dp));
         return solve( 0 , false , prices,K,n);
     }
+};
