@@ -10,5 +10,13 @@ This is a Challenge by @Arsh_Goyal where i am Solving 90 questions in 30 days.
 
 ---
 
-**Company-  Amazon == _Milestone 3 Completed_**
+**Company-  Microsoft == _Milestone 3 Completed_**
+
+---
+
+**Company-  Adobe == _Milestone 4 Completed_**
+
+---
+
+**Company-  Intuit == _Milestone 5 Completed_**
 
