@@ -25,3 +25,4 @@ vector<int> subarraySum(int arr[], int n, long long s)
         }
         ans.push_back(-1);
         return ans;
+}
