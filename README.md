@@ -20,3 +20,7 @@ This is a Challenge by @Arsh_Goyal where i am Solving 90 questions in 30 days.
 
 **Company-  Intuit == _Milestone 5 Completed_**
 
+---
+
+**Company-  Walmart == _Milestone 6 Completed_**
+
